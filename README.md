@@ -1,7 +1,7 @@
-![MIT LICENSE](https://img.shields.io/github/license/scottbromander/the_marketplace.svg?style=flat-square)
-![REPO SIZE](https://img.shields.io/github/repo-size/scottbromander/the_marketplace.svg?style=flat-square)
-![TOP_LANGUAGE](https://img.shields.io/github/languages/top/scottbromander/the_marketplace.svg?style=flat-square)
-![FORKS](https://img.shields.io/github/forks/scottbromander/the_marketplace.svg?style=social)
+![License](https://img.shields.io/github/license/johnturner4004/3d-objects)
+![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/3d-objects)
+![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/3d-objects)
+![FORKS](https://img.shields.io/github/forks/johnturner4004/3d-objects)
 
 # 3d-objects
 
